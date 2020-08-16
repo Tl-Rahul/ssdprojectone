@@ -1,0 +1,21 @@
+body{margin:0px;padding:0px;}
+
+
+.details{width:800px;height:800px;border:1px solid black;background: #655f5f1c;margin:auto;margin-top: 200px;}
+img{width:200px;margin-right:;margin-left:300px;margin-top:40px}
+
+h1{
+    margin-left: 335PX;
+    margin-top: 0px;
+    color: seagreen;
+    text-shadow: 3px 5px 3px #1f832363;
+    font-size: 32px;
+    }
+    p{line-height:23px;
+      margin: 36px;
+      text-align: justify;
+       color:seagreen;
+       font-size:20px;
+    text-transform: capitalize;
+    }
+.span{margin-left:325px;width:150px;font-size:16px;color:seagreen;text-transform:capitalize;}
